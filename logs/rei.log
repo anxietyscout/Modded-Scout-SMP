@@ -1,0 +1,179 @@
+[21:36:21] [modloading-worker-0/INFO] ========================================
+[21:36:21] [modloading-worker-0/INFO] Minecraft: 1.20.1
+[21:36:21] [modloading-worker-0/INFO] Side: client
+[21:36:21] [modloading-worker-0/INFO] Development: false
+[21:36:21] [modloading-worker-0/INFO] Version: 12.1.785
+[21:36:21] [modloading-worker-0/INFO] Loader:
+[21:36:21] [modloading-worker-0/INFO] - Forge: 47.4.0
+[21:36:21] [modloading-worker-0/INFO] Dependencies:
+[21:36:21] [modloading-worker-0/INFO] - Cloth Config: 11.1.136
+[21:36:21] [modloading-worker-0/INFO] - Architectury: 9.2.14
+[21:36:21] [modloading-worker-0/INFO] Mixin: 0.8.5
+[21:36:21] [modloading-worker-0/INFO] OS: Windows 11 10.0 (amd64)
+[21:36:21] [modloading-worker-0/INFO] Java: 17.0.8 (Eclipse Adoptium)
+[21:36:21] [modloading-worker-0/INFO] ========================================
+[21:36:21] [modloading-worker-0/INFO] Mods:
+[21:36:21] [modloading-worker-0/INFO] - advancementplaques: 1.6.9
+[21:36:21] [modloading-worker-0/INFO] - amendments: 1.20-1.2.19
+[21:36:21] [modloading-worker-0/INFO] - architectury: 9.2.14
+[21:36:21] [modloading-worker-0/INFO] - balm: 7.3.20
+[21:36:21] [modloading-worker-0/INFO] - betterarcheology: 1.2.1-1.20.1
+[21:36:21] [modloading-worker-0/INFO] - betterdeserttemples: 1.20-Forge-3.0.3
+[21:36:21] [modloading-worker-0/INFO] - betterdungeons: 1.20-Forge-4.0.4
+[21:36:21] [modloading-worker-0/INFO] - betterendisland: 1.20-Forge-2.0.6
+[21:36:21] [modloading-worker-0/INFO] - betterfortresses: 1.20-Forge-2.0.6
+[21:36:21] [modloading-worker-0/INFO] - betterjungletemples: 1.20-Forge-2.0.5
+[21:36:21] [modloading-worker-0/INFO] - bettermineshafts: 1.20-Forge-4.0.4
+[21:36:21] [modloading-worker-0/INFO] - betteroceanmonuments: 1.20-Forge-3.0.4
+[21:36:21] [modloading-worker-0/INFO] - betterstrongholds: 1.20-Forge-4.0.3
+[21:36:21] [modloading-worker-0/INFO] - betterwitchhuts: 1.20-Forge-3.0.3
+[21:36:21] [modloading-worker-0/INFO] - bfcmod: 2.0.2
+[21:36:21] [modloading-worker-0/INFO] - caelus: 3.2.0+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - carryon: 2.1.2.7
+[21:36:21] [modloading-worker-0/INFO] - cloth_config: 11.1.136
+[21:36:21] [modloading-worker-0/INFO] - clumps: 12.0.0.4
+[21:36:21] [modloading-worker-0/INFO] - cobblemon: 1.5.2+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - connectormod: 1.0.0-beta.46+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - controlling: 12.0.2
+[21:36:21] [modloading-worker-0/INFO] - craftpresence: 2.5.3
+[21:36:21] [modloading-worker-0/INFO] - curios: 5.12.1+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - dcintegration: 3.0.7.1
+[21:36:21] [modloading-worker-0/INFO] - discordloom: 1.0-SNAPSHOT
+[21:36:21] [modloading-worker-0/INFO] - drippyloadingscreen: 3.0.11
+[21:36:21] [modloading-worker-0/INFO] - dynamiccrosshair: 9.3
+[21:36:21] [modloading-worker-0/INFO] - dynamiccrosshairapi: 1.1
+[21:36:21] [modloading-worker-0/INFO] - elytraslot: 6.4.4+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - fabric_api: 0.92.2+1.11.12+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - fabric_api_base: 0.4.31+ef105b4977
+[21:36:21] [modloading-worker-0/INFO] - fabric_api_lookup_api_v1: 1.6.36+67f9824077
+[21:36:21] [modloading-worker-0/INFO] - fabric_biome_api_v1: 13.0.13+dc36698e77
+[21:36:21] [modloading-worker-0/INFO] - fabric_block_api_v1: 1.0.11+0e6cb7f777
+[21:36:21] [modloading-worker-0/INFO] - fabric_block_view_api_v2: 1.0.1+0767707077
+[21:36:21] [modloading-worker-0/INFO] - fabric_blockrenderlayer_v1: 1.1.41+1d0da21e77
+[21:36:21] [modloading-worker-0/INFO] - fabric_client_tags_api_v1: 1.1.2+5d6761b877
+[21:36:21] [modloading-worker-0/INFO] - fabric_command_api_v1: 1.2.34+f71b366f77
+[21:36:21] [modloading-worker-0/INFO] - fabric_command_api_v2: 2.2.13+561530ec77
+[21:36:21] [modloading-worker-0/INFO] - fabric_content_registries_v0: 4.0.11+a670df1e77
+[21:36:21] [modloading-worker-0/INFO] - fabric_convention_tags_v1: 1.5.5+fa3d1c0177
+[21:36:21] [modloading-worker-0/INFO] - fabric_data_attachment_api_v1: 1.0.0+30ef839e77
+[21:36:21] [modloading-worker-0/INFO] - fabric_data_generation_api_v1: 12.3.4+369cb3a477
+[21:36:21] [modloading-worker-0/INFO] - fabric_dimensions_v1: 2.1.54+8005d10d77
+[21:36:21] [modloading-worker-0/INFO] - fabric_entity_events_v1: 1.6.0+4ca7515277
+[21:36:21] [modloading-worker-0/INFO] - fabric_events_interaction_v0: 0.6.2+0d0bd5a777
+[21:36:21] [modloading-worker-0/INFO] - fabric_game_rule_api_v1: 1.0.40+683d4da877
+[21:36:21] [modloading-worker-0/INFO] - fabric_item_api_v1: 2.1.28+4d0bbcfa77
+[21:36:21] [modloading-worker-0/INFO] - fabric_item_group_api_v1: 4.0.12+c9161c2d77
+[21:36:21] [modloading-worker-0/INFO] - fabric_key_binding_api_v1: 1.0.37+561530ec77
+[21:36:21] [modloading-worker-0/INFO] - fabric_lifecycle_events_v1: 2.2.22+afab492177
+[21:36:21] [modloading-worker-0/INFO] - fabric_loot_api_v2: 1.2.1+eb28f93e77
+[21:36:21] [modloading-worker-0/INFO] - fabric_message_api_v1: 5.1.9+52cc178c77
+[21:36:21] [modloading-worker-0/INFO] - fabric_mining_level_api_v1: 2.1.50+561530ec77
+[21:36:21] [modloading-worker-0/INFO] - fabric_model_loading_api_v1: 1.0.3+6274ab9d77
+[21:36:21] [modloading-worker-0/INFO] - fabric_models_v0: 0.4.2+7c3892a477
+[21:36:21] [modloading-worker-0/INFO] - fabric_networking_api_v1: 1.3.11+503a202477
+[21:36:21] [modloading-worker-0/INFO] - fabric_object_builder_api_v1: 11.1.3+4bd998fa77
+[21:36:21] [modloading-worker-0/INFO] - fabric_particles_v1: 1.1.2+78e1ecb877
+[21:36:21] [modloading-worker-0/INFO] - fabric_recipe_api_v1: 1.0.21+514a076577
+[21:36:21] [modloading-worker-0/INFO] - fabric_registry_sync_v0: 2.3.3+1c0ea72177
+[21:36:21] [modloading-worker-0/INFO] - fabric_renderer_api_v1: 3.2.1+cf68abbe77
+[21:36:21] [modloading-worker-0/INFO] - fabric_renderer_indigo: 1.5.2+b5b2da4177
+[21:36:21] [modloading-worker-0/INFO] - fabric_rendering_data_attachment_v1: 0.3.37+a6081afc77
+[21:36:21] [modloading-worker-0/INFO] - fabric_rendering_fluids_v1: 3.0.28+4ac5e37a77
+[21:36:21] [modloading-worker-0/INFO] - fabric_rendering_v1: 3.0.8+66e9a48f77
+[21:36:21] [modloading-worker-0/INFO] - fabric_resource_conditions_api_v1: 2.3.8+9e342fc177
+[21:36:21] [modloading-worker-0/INFO] - fabric_resource_loader_v0: 0.11.10+bcd08ed377
+[21:36:21] [modloading-worker-0/INFO] - fabric_screen_api_v1: 2.0.8+45a670a577
+[21:36:21] [modloading-worker-0/INFO] - fabric_screen_handler_api_v1: 1.3.30+561530ec77
+[21:36:21] [modloading-worker-0/INFO] - fabric_sound_api_v1: 1.0.13+4f23bd8477
+[21:36:21] [modloading-worker-0/INFO] - fabric_transfer_api_v1: 3.3.5+631c9cd677
+[21:36:21] [modloading-worker-0/INFO] - fabric_transitive_access_wideners_v1: 4.3.1+1880499877
+[21:36:21] [modloading-worker-0/INFO] - fallingtree: 4.3.4
+[21:36:21] [modloading-worker-0/INFO] - fancymenu: 3.4.6
+[21:36:21] [modloading-worker-0/INFO] - farmersdelight: 1.20.1-1.2.7
+[21:36:21] [modloading-worker-0/INFO] - forestry: 2.4.5
+[21:36:21] [modloading-worker-0/INFO] - forge: 47.4.0
+[21:36:21] [modloading-worker-0/INFO] - geckolib: 4.7.1.1
+[21:36:21] [modloading-worker-0/INFO] - highlighter: 1.1.9
+[21:36:21] [modloading-worker-0/INFO] - iceberg: 1.1.25
+[21:36:21] [modloading-worker-0/INFO] - inventoryprofilesnext: 1.10.14
+[21:36:21] [modloading-worker-0/INFO] - inventoryweight: 1
+[21:36:21] [modloading-worker-0/INFO] - jamlib: 1.3.2+1.20.1-patch.1
+[21:36:21] [modloading-worker-0/INFO] - jei: 15.20.0.106
+[21:36:21] [modloading-worker-0/INFO] - konkrete: 1.8.0
+[21:36:21] [modloading-worker-0/INFO] - kotlinforforge: 4.11.0
+[21:36:21] [modloading-worker-0/INFO] - kuma_api: 20.1.8
+[21:36:21] [modloading-worker-0/INFO] - leavesbegone: 8.0.0
+[21:36:21] [modloading-worker-0/INFO] - libbamboo: 2.2
+[21:36:21] [modloading-worker-0/INFO] - libipn: 4.0.2
+[21:36:21] [modloading-worker-0/INFO] - lootr: 0.7.35.90
+[21:36:21] [modloading-worker-0/INFO] - luckperms: 5.4.102
+[21:36:21] [modloading-worker-0/INFO] - matmos_tct: 7.0
+[21:36:21] [modloading-worker-0/INFO] - mca: 7.6.3+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - melody: 1.0.2
+[21:36:21] [modloading-worker-0/INFO] - midnightlib: 1.4.2
+[21:36:21] [modloading-worker-0/INFO] - minecraft: 1.20.1
+[21:36:21] [modloading-worker-0/INFO] - mixinextras: 0.4.1
+[21:36:21] [modloading-worker-0/INFO] - mixinsquared: 0.1.2-beta.6
+[21:36:21] [modloading-worker-0/INFO] - modpackupdatechecker: 0.15.4
+[21:36:21] [modloading-worker-0/INFO] - moonlight: 1.20-2.13.79
+[21:36:21] [modloading-worker-0/INFO] - mousetweaks: 2.25.1
+[21:36:21] [modloading-worker-0/INFO] - mpuc_lavendermd: 0.1.2
+[21:36:21] [modloading-worker-0/INFO] - mr_veinminer: 1.1.0
+[21:36:21] [modloading-worker-0/INFO] - naturalist: 5.0pre2
+[21:36:21] [modloading-worker-0/INFO] - naturescompass: 1.20.1-1.11.2-forge
+[21:36:21] [modloading-worker-0/INFO] - patchouli: 1.20.1-84.1-FORGE
+[21:36:21] [modloading-worker-0/INFO] - polymorph: 0.49.8+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - puzzlesaccessapi: 20.1.1
+[21:36:21] [modloading-worker-0/INFO] - puzzleslib: 8.1.29
+[21:36:21] [modloading-worker-0/INFO] - quark: 4.0-461
+[21:36:21] [modloading-worker-0/INFO] - quickerconnectbutton: 1.0.1
+[21:36:21] [modloading-worker-0/INFO] - rightclickharvest: 4.5.3+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - roughlyenoughitems: 12.1.785
+[21:36:21] [modloading-worker-0/INFO] - roughlyenoughprofessions: 2.0.2
+[21:36:21] [modloading-worker-0/INFO] - searchables: 1.0.3
+[21:36:21] [modloading-worker-0/INFO] - shulkerboxtooltip: 4.0.4+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - spectrelib: 0.13.17+1.20.1
+[21:36:21] [modloading-worker-0/INFO] - storagedelight: 25.03.09-1.20-forge
+[21:36:21] [modloading-worker-0/INFO] - storagedrawers: 12.9.13
+[21:36:21] [modloading-worker-0/INFO] - supermartijn642configlib: 1.1.8
+[21:36:21] [modloading-worker-0/INFO] - supplementaries: 1.20-3.1.21
+[21:36:21] [modloading-worker-0/INFO] - tctcore: 1.6
+[21:36:21] [modloading-worker-0/INFO] - theoneprobe: 1.20.1-10.0.3
+[21:36:21] [modloading-worker-0/INFO] - toms_storage: 1.7.0
+[21:36:21] [modloading-worker-0/INFO] - travelersbackpack: 9.1.33
+[21:36:21] [modloading-worker-0/INFO] - unilib: 1.0.5
+[21:36:21] [modloading-worker-0/INFO] - visualworkbench: 8.0.0
+[21:36:21] [modloading-worker-0/INFO] - waystones: 14.1.11
+[21:36:21] [modloading-worker-0/INFO] - yungsapi: 1.20-Forge-4.0.6
+[21:36:21] [modloading-worker-0/INFO] - yungsbridges: 1.20-Forge-4.0.3
+[21:36:21] [modloading-worker-0/INFO] - yungsextras: 1.20-Forge-4.0.3
+[21:36:21] [modloading-worker-0/INFO] - zeta: 1.0-28
+[21:36:21] [modloading-worker-0/INFO] ========================================
+[21:36:21] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:search]: INSTANCE
+[21:36:21] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:manual]: INSTANCE
+[21:36:21] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:basic]: INSTANCE
+[21:36:21] [modloading-worker-0/INFO] [REI] Config loaded
+[21:36:21] [modloading-worker-0/DEBUG] [REI] Config saved
+[21:36:21] [modloading-worker-0/DEBUG] [REI] Config saved
+[21:36:21] [modloading-worker-0/DEBUG] [REI] Config saved
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiCompat [travelersbackpack] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider REIPlugin [toms_storage] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiClientCompat [travelersbackpack] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider REICompat [supplementaries] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:36:22] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:hidden_from_recipe_viewers]: INSTANCE
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiCompat [travelersbackpack] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider REIPlugin [toms_storage] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiClientCompat [travelersbackpack] for REIClientPlugin
+[21:36:22] [modloading-worker-0/INFO] [REI] Registered plugin provider REICompat [supplementaries] for REIClientPlugin

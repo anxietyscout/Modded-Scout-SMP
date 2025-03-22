@@ -1,0 +1,143 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-19 13:46:58 -0500"
+    },
+    "done": true
+  },
+  "dawnera:the_dawn_era": {
+    "criteria": {
+      "join_game": "2025-03-19 13:47:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-03-19 13:50:34 -0500",
+      "minecraft:desert": "2025-03-19 13:47:00 -0500",
+      "minecraft:warm_ocean": "2025-03-19 13:49:50 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-19 13:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-19 13:50:21 -0500"
+    },
+    "done": true
+  },
+  "dawnera:living_fossil": {
+    "criteria": {
+      "meet_living_fossil": "2025-03-19 13:50:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_alligator_gar_from_campfire_cooking": {
+    "criteria": {
+      "has_alligator_gar": "2025-03-19 14:00:42 -0500"
+    },
+    "done": true
+  },
+  "dawnera:recipes/food/cooked_alligator_gar": {
+    "criteria": {
+      "has_has_alligator_gar": "2025-03-19 14:00:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-03-19 13:57:31 -0500"
+    },
+    "done": true
+  },
+  "dawnera:no_king_rules_forever": {
+    "criteria": {
+      "kill_trex": "2025-03-19 13:59:59 -0500"
+    },
+    "done": true
+  },
+  "dawnera:life_finds_a_way": {
+    "criteria": {
+      "get_a_dino_egg": "2025-03-19 13:58:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-03-19 13:57:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_alligator_gar_from_smoking": {
+    "criteria": {
+      "has_alligator_gar": "2025-03-19 14:00:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-03-19 13:57:31 -0500"
+    },
+    "done": true
+  },
+  "dawnera:long_live_the_king": {
+    "criteria": {
+      "meet_trex": "2025-03-19 13:59:00 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
